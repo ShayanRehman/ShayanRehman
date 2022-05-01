@@ -5,7 +5,7 @@
 
  :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-rehman-b0629958/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saeed.rehman.b/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saeedrb1995@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Saeed Rehman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-rehman-b0629958/) [![Mail Badge](https://img.shields.io/badge/-@saeed.rehman.b-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/saeed.rehman.b/) [![Mail Badge](https://img.shields.io/badge/-saeedrb1995-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saeedrb1995@gmail.com)
 
 <!--
 **ShayanRehman/ShayanRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
