@@ -11,12 +11,14 @@
 **ShayanRehman/ShayanRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working as a Data Scientist/Team Lead at Knowledge Discovery
-  and Data Science Lab (KDD), National University of Computer and Emerging Sciences (FAST-NUCES)
-- 🌱 I’m currently learning <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  and Data Science Lab (KDD) <img alt="MongoDB" width="26px" src="http://isb.nu.edu.pk/kdd/assets/img/site-logo.png " />, National University of Computer and Emerging Sciences (FAST-NUCES) <img alt="MongoDB" width="26px" src="https://www.nu.edu.pk/Content/images/NU-logo.jpg" />
+- 🌱 I’m currently learning <img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Love coffee and cats more than humans !!
 
