@@ -1,5 +1,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=ShayanRehman&label=PROFILE+VIEWS)
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShayanRehman.ShayanRehman)
 <!--
 **ShayanRehman/ShayanRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
