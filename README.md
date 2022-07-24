@@ -15,4 +15,4 @@
 
 #### GitHub Stats *(Excluding private PRs, private Issues, private Contibutions)*
 
-![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanRehman&count_private=true&show_icons=true)
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanRehman&show_icons=true&count_private=true)
