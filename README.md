@@ -16,3 +16,4 @@
 #### GitHub Stats *(Excluding private PRs, private Issues, private Contibutions)*
 
 ![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanRehman&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ShayanRehman&show_icons=true&locale=en&layout=compact&theme=radical)]()
