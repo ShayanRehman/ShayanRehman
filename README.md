@@ -9,10 +9,16 @@
 🎓 I hold a Master’s in Data Science from FAST NUCES and was nominated for a dual master’s program at IMT Atlantique, France. My academic and professional journey has been shaped by a deep interest in data-driven decision-making, model interpretability, and Large Language Models (LLMs).
 
 📚 I have three research publications and hands-on experience with enterprise cloud platforms including Alibaba Cloud, along with strong Python, SQL, and statistical foundations.
- 
-</div>
 
-___
+ 🚀 My current goals involve:
+- Advancing research in LLMs, memory optimization, and hallucination control
+- Building scalable ML and NLP pipelines for production environments
+- Pursuing a PhD in AI with a focus on trustworthy and explainable ML systems
+
+💡 Outside work, I enjoy exploring open-source projects, mentoring early-career data scientists, and experimenting with novel ML architectures.
+
+</div>
+<hr>
 
 <div align=center>
 
