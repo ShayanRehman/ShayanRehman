@@ -1,8 +1,13 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true />
+</div>
+
 <div align=center>
 
  Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Helloo"> I'm Saeed Rehman I am based in Islamabad <img src = "https://upload.wikimedia.org/wikipedia/en/0/04/Metropolitan_Corporation_Islamabad.png" width = "28"> Pakistan.. 
 </div>
-<hr>
+
+___
 
 <div align=center>
 
