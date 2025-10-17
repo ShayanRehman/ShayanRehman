@@ -14,6 +14,10 @@
 - ⚡ Fun fact: Love coffee and cats more than humans !!
 
 #### GitHub Stats *(Excluding private PRs, private Issues, private Contibutions)*
+<div align=center>
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanRehman&show_icons=true&count_private=true)
+</div>
 
-- ![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanRehman&show_icons=true&count_private=true)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ShayanRehman&show_icons=true&locale=en&layout=compact&theme=radical)
+<div align=center>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ShayanRehman&show_icons=true&locale=en&layout=compact&theme=radical)
+</div>
