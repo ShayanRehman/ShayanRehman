@@ -13,8 +13,8 @@
 - 🌱 I’m currently learning **MongoDB**, **SQL**, **REACTJS**
 - ⚡ Fun fact: Love coffee and cats more than humans !!
 
-#### GitHub Stats *(Excluding private PRs, private Issues, private Contibutions)*
 <div align=center>
+#### GitHub Stats *(Excluding private PRs, private Issues, private Contibutions)*
 ![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayanRehman&show_icons=true&count_private=true)
 </div>
 
