@@ -4,7 +4,12 @@
 
 <div align=center>
 
- Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Helloo"> I'm Saeed Rehman I am based in Islamabad <img src = "https://upload.wikimedia.org/wikipedia/en/0/04/Metropolitan_Corporation_Islamabad.png" width = "28"> Pakistan.. 
+ Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Helloo"> I'm Saeed Rehman, I'm a Data Scientist with over 3 years of experience developing and deploying data-driven solutions that drive business insights and automation. My work spans Machine Learning, Natural Language Processing (NLP), and Computer Vision, with a focus on applying AI to solve real-world problems at scale.
+
+🎓 I hold a Master’s in Data Science from FAST NUCES and was nominated for a dual master’s program at IMT Atlantique, France. My academic and professional journey has been shaped by a deep interest in data-driven decision-making, model interpretability, and Large Language Models (LLMs).
+
+📚 I have three research publications and hands-on experience with enterprise cloud platforms including Alibaba Cloud, along with strong Python, SQL, and statistical foundations.
+ 
 </div>
 
 ___
