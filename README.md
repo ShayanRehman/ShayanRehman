@@ -10,11 +10,17 @@
 
 📚 I have three research publications and hands-on experience with enterprise cloud platforms including Alibaba Cloud, along with strong Python, SQL, and statistical foundations.
 
+<div align=left>
+   
  🚀 My current goals involve:
 - Advancing research in LLMs, memory optimization, and hallucination control
 - Building scalable ML and NLP pipelines for production environments
 - Pursuing a PhD in AI with a focus on trustworthy and explainable ML systems
 
+</div>
+
+<div align=center>
+   
 💡 Outside work, I enjoy exploring open-source projects, mentoring early-career data scientists, and experimenting with novel ML architectures.
 
 </div>
